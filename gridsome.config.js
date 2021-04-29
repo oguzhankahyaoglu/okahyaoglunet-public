@@ -16,7 +16,7 @@ module.exports = {
     }
   ],
   outputDir:"docs",
-  pathPrefix:"/docs",
+  pathPrefix:undefined,
   css: {
     loaderOptions: {
       scss: {}
