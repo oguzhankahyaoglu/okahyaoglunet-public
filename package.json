@@ -2,7 +2,7 @@
   "name": "my-gridsome-site",
   "private": true,
   "scripts": {
-    "build": "gridsome build" -o docs",
+    "build": "gridsome build",
     "dev": "gridsome develop",
     "explore": "gridsome explore"
   },

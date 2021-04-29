@@ -1,7 +1,7 @@
 module.exports = {
   siteName: 'Hi! | Oğuzhan Kahyaoğlu',
   siteDescription: 'A starter project for Gridsome with Bootstrap for you to quickly build a resume.',
-  siteUrl: 'https://gridsome-starter-resume.loke.dev',
+  siteUrl: 'https://okahyaoglu.net',
   plugins: [{
       use: '@gridsome/plugin-google-analytics',
       options: {
@@ -15,6 +15,8 @@ module.exports = {
       }
     }
   ],
+  outputDir:"docs",
+  pathPrefix:"/docs",
   css: {
     loaderOptions: {
       scss: {}
