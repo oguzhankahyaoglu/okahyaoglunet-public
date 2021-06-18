@@ -19,8 +19,8 @@
         and using Feature-toggling as needed.
 
       </p>
-      <p class="lead mb-5"><strong>.NetCore, Heroku, Azure, Unit Test (xUnit) </strong> <strong>Resharper/Rider</strong>
-        Microservice, LLBLGEN, Entity Framework Core,
+      <p class="lead mb-5"><strong>.NetCore, Heroku, Azure (Functions, Service Bus, Storage), Unit Test (xUnit) </strong> <strong>Resharper/Rider</strong>
+        Microservice, LLBLGEN, Entity Framework Core, <strong>MassTransit,</strong>
         Javascript, LESS, <strong>AspnetZero, AspnetBoilerplate, Mediatr&amp;CQRS</strong>,
         <strong>Regex, Hangfire,</strong> Jenkins, svn/git, <strong> Teamcity, Octopus, TestProject/Selenium</strong>,
         Contentful, HeadlessCMS, <strong>and more!</strong>
