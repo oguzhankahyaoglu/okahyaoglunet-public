@@ -8,7 +8,7 @@
       <div class="subheading mb-5">
         8+ yrs. Software Arhcitect, Full-stack Developer; ISTANBUL/TURKEY
         <a href="mailto:oguzhan.kahyaoglu@yahoo.com">oguzhan.kahyaoglu@yahoo.com</a><br>
-        <a href="/cv/Oguzhan-Kahyaoglu-Resume-2022.pdf" target="_blank">Download CV PDF</a>
+        <a href="/cv/Oguzhan-Kahyaoglu-2022-2.pdf" target="_blank">Download CV PDF</a>
       </div>
       <p class="lead mb-5">
         Tech Influencer! Loves to spread dev-related info;<br>
