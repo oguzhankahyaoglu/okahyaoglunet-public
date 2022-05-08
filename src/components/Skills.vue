@@ -22,7 +22,7 @@
         </li>
         <li>
           <font-awesome class="fa-li" :icon="['fas', 'check']"/>
-          Entity Framework & Entity Framework Core, Dapper, LLBLGEN
+          Entity Framework, Entity Framework Core, Dapper, LLBLGEN
         </li>
         <li>
           <font-awesome class="fa-li" :icon="['fas', 'check']"/>
@@ -42,7 +42,7 @@
         </li>
         <li>
           <font-awesome class="fa-li" :icon="['fas', 'check']"/>
-          Rest Apis
+          Rest Apis, OOP, Object Oriented Design
         </li>
         <li>
           <font-awesome class="fa-li" :icon="['fas', 'check']"/>
@@ -63,7 +63,7 @@
       <ul class="fa-ul mb-0">
         <li>
           <font-awesome class="fa-li" :icon="['fas', 'check']"/>
-          Microsoft Azure (Kubernetes, Storage, Azure Functions etc.)
+          Microsoft Azure (Kubernetes, Storage, Azure Functions, AppServices, Service bus, application insights)
         </li>
         <li>
           <font-awesome class="fa-li" :icon="['fas', 'check']"/>
@@ -91,6 +91,27 @@
         <li>
           <font-awesome class="fa-li" :icon="['fas', 'check']"/>
           Photoshop
+        </li>
+      </ul>
+
+
+      <div class="subheading mb-3 mt-3">OTHER</div>
+      <ul class="fa-ul mb-0">
+        <li>
+          <font-awesome class="fa-li" :icon="['fas', 'check']"/>
+          UML standards
+        </li>
+        <li>
+          <font-awesome class="fa-li" :icon="['fas', 'check']"/>
+          Git, CQRS and writing REST APIs
+        </li>
+        <li>
+          <font-awesome class="fa-li" :icon="['fas', 'check']"/>
+          Extracting business logic from existing software written in different techno
+        </li>
+        <li>
+          <font-awesome class="fa-li" :icon="['fas', 'check']"/>
+          Writing anti-corruption layers
         </li>
       </ul>
 
