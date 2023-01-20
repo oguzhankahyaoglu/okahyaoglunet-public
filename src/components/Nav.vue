@@ -5,7 +5,7 @@
       <span class="d-none d-lg-block">
         <g-image
           alt="Image of Loke"
-          src="../assets/images/avatar.png"
+          src="../assets/images/avatar2.png"
           class="img-fluid img-profile rounded-circle mx-auto mb-2"
         />
       </span>
@@ -29,7 +29,7 @@
           <a class="nav-link" v-on:click.prevent="$scrollTo('#portfolio')">Portfolio</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" v-on:click.prevent="$scrollTo('#awards')">Awards</a>
+          <a class="nav-link" v-on:click.prevent="$scrollTo('#awards')">Certifications</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="/cv/Oguzhan-Kahyaoglu-Resume-2022.pdf" target="_blank">Download CV PDF</a>
@@ -81,7 +81,7 @@
   #sideNav .navbar-brand .img-profile {
     max-width: 10rem;
     max-height: 10rem;
-    border: 0.5rem solid rgba(255, 255, 255, 0.2);
+    border: 0.5rem solid rgba(189, 93, 56, 0.38);
   }
   #sideNav .navbar-collapse {
     display: -webkit-box;

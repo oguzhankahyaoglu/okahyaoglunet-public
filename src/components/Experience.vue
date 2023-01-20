@@ -4,6 +4,22 @@
       <h2 class="mb-5">Experience</h2>
       <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
         <div class="resume-content">
+          <h3 class="mb-0">Senior Software Developer (SDE 2)</h3>
+          <div class="subheading mb-3">Amazon</div>
+          <p>
+            As being a SDE2 in Amazon, in the Alexa Shopping Multimodal Experiencs team, we are focusing on developing rich customer experiences. <br>
+            They, as expected, running on AWS services and we are using APL language in the front-end side, Kotlin on the backend side. <br>
+            This position enabled me to do development on Java technology stack.<br>
+          </p>
+          <p><strong>Tech Stack:</strong> AWS, Java/Kotlin, Alexa Presentation Language (APL), many other internal tools</p>
+        </div>
+        <div class="resume-date text-md-right">
+          <span class="text-primary">2022 October - Present</span>
+        </div>
+      </div>
+
+      <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+        <div class="resume-content">
           <h3 class="mb-0">Software Architect</h3>
           <div class="subheading mb-3">Enerjisa Uretim</div>
           <p>
@@ -17,7 +33,7 @@
           <p><strong>Tech Stack:</strong> AspnetBoilerplate, AspnetZero, Angular, Typescript</p>
         </div>
         <div class="resume-date text-md-right">
-          <span class="text-primary">2019 Jan - Present</span>
+          <span class="text-primary">2019 Jan - 2022 September</span>
         </div>
       </div>
 

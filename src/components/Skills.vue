@@ -14,7 +14,11 @@
         </li>
         <li>
           <font-awesome class="fa-li" :icon="['fas', 'check']"/>
-          .net core
+          .net core (9+ Years)
+        </li>
+        <li>
+          <font-awesome class="fa-li" :icon="['fas', 'check']"/>
+          Java/Kotlin (6 months)
         </li>
         <li>
           <font-awesome class="fa-li" :icon="['fas', 'check']"/>
@@ -67,7 +71,7 @@
         </li>
         <li>
           <font-awesome class="fa-li" :icon="['fas', 'check']"/>
-          Google Cloud (Storage Services)
+          Amazon Web Services (AWS)
         </li>
       </ul>
       <div class="subheading mb-3 mt-3">Frontend Development</div>

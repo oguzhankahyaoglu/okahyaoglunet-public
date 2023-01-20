@@ -15,7 +15,7 @@
           <p><strong>Tech Stack:</strong> AspnetBoilerplate, AspnetZero, Angular, Typescript</p>
         </div>
         <div class="resume-date text-md-right">
-          <span class="text-primary">2020 Jan - Present</span>
+          <span class="text-primary">2020 Jan - 2022 September</span>
         </div>
       </div>
       <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">

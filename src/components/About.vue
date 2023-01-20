@@ -6,24 +6,29 @@
         <span class="text-primary">Kahyaoğlu</span>
       </h1>
       <div class="subheading mb-5">
-        8+ yrs. Software Arhcitect, Full-stack Developer; ISTANBUL/TURKEY
+        9+ yrs. Software Arhcitect, Full-stack Developer; United Kingdom (UK)
         <a href="mailto:oguzhan.kahyaoglu@yahoo.com">oguzhan.kahyaoglu@yahoo.com</a><br>
-        <a href="/cv/Oguzhan-Kahyaoglu-2022-2.pdf" target="_blank">Download CV PDF</a>
+        <a href="/cv/Oguzhan-Kahyaoglu-2023-1.pdf" target="_blank">Download CV PDF</a>
       </div>
       <p class="lead mb-5">
         Tech Influencer! Loves to spread dev-related info;<br>
-        I deeply love Jetbrains products. At the same time, I am deeply connected to KISS, DRY and YAGNI principles.<br><br>
-        Within Enerjisa (current employer), we develop high quality products, following the latest world-wide software
-        development standards; <strong>unit test, sonarqube quality gates, ui test etc.</strong><br><br>
-        Tightly connected to Agile principles. For the last 2 years, I have been working with Trunk-based development
-        and using Feature-toggling as needed.
-
+        <ul>
+          <li>expert at <strong>Test Driven Development (TDD) using .NET Framework/.NET Core (9+ yrs), </strong></li>
+          <li><strong>Angular (4+ yrs), Javascript/Typescript (9+ yrs)</strong> and many other front-end technologies,</li>
+          <li>written many <strong>Nuget Packages</strong> (downloaded more than 50K+),</li>
+          <li>deeply love <strong>Jetbrains</strong> products,</li>
+          <li>connected to KISS, DRY and YAGNI principles, </li>
+          <li>tightly connected to Agile principles,</li>
+          <li>worked with Trunk-based development and using Feature-toggling as needed,</li>
+        </ul>
+        In Amazon, Alexa Shopping Multi Modal Experiences Team (current employer), we develop high quality products, following the latest world-wide software
+        development standards; <strong>unit/integration test, internal-developed quality gates, ui test etc.</strong><br>
       </p>
-      <p class="lead mb-5"><strong>.NetCore, Heroku, Azure (Functions, Service Bus, Storage, Application Insights, App Services), Unit Test (xUnit) </strong> <strong>Resharper/Rider</strong>
+      <p class="lead mb-5"><strong>.NetCore, Java/Kotlin, Angular, Javascript/Typescript, Heroku, Azure (Functions, Service Bus, Storage, Application Insights, App Services), Unit Test (xUnit) </strong> <strong>Resharper/Rider</strong>
         Microservice, LLBLGEN, Entity Framework Core, <strong>MassTransit,</strong>
         Javascript, LESS, <strong>AspnetZero, AspnetBoilerplate, Mediatr&amp;CQRS</strong>,
         <strong>Regex, Hangfire,</strong> Jenkins, svn/git, <strong> Teamcity, Octopus, TestProject/Selenium</strong>,
-        OOP, Object Oriented Design, Entity Framework, Unit Testing,
+        OOP, Object Oriented Design, <strong>Entity Framework, Unit Testing,</strong>
         Contentful, HeadlessCMS, <strong>and more!</strong>
       </p>
 
@@ -48,12 +53,6 @@
           <a href="https://github.com/oguzhankahyaoglu" target="_blank" rel="noopener noreferrer"
              aria-label="GitHub Profile">
             <font-awesome class="fa-li" :icon="['fab', 'github']"/> Github Profile
-          </a>
-        </li>
-        <li>
-          <a href="https://bitbucket.org/okahyaoglu/" target="_blank" rel="noopener noreferrer"
-             aria-label="Bitbucket Profile">
-            <font-awesome class="fa-li" :icon="['fab', 'bitbucket']"/>Bitbucket Profile
           </a>
         </li>
         <li>
