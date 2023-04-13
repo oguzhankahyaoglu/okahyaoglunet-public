@@ -34,6 +34,9 @@
         <li class="nav-item">
           <a class="nav-link" href="/cv/Oguzhan-Kahyaoglu-2023-2.pdf" target="_blank">Download CV PDF</a>
         </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/cv/Oguzhan-Kahyaoglu-2023.docx" target="_blank">Download CV Word</a>
+        </li>
       </ul>
     </div>
   </nav>
