@@ -1,0 +1,9 @@
+Download nodejs install https://nodejs.org/en/blog/release/v17.7.1
+
+restart
+download python 2.7 https://www.python.org/downloads/release/python-2718/
+admin powershell: npm install --global --production windows-build-tools
+
+npm install
+https://stackoverflow.com/questions/69692842/error-message-error0308010cdigital-envelope-routinesunsupported
+publish.bat
