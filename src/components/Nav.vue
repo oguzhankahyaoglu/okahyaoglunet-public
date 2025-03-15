@@ -32,7 +32,7 @@
           <a class="nav-link" v-on:click.prevent="$scrollTo('#awards')">Certifications</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="/cv/Oguzhan-Kahyaoglu-2025-1.pdf" target="_blank">Download CV PDF</a>
+          <a class="nav-link" href="/cv/oguzhan-kahyaoglu-2025-1.pdf" target="_blank">Download CV PDF</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="/cv/oguzhan-kahyaoglu-2025.docx" target="_blank">Download CV Word</a>

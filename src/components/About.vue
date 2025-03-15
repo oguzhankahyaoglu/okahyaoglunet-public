@@ -12,7 +12,7 @@
       </div>
 
       <div class="mb-4">
-        <a class="btn btn-primary mr-2" href="/cv/Oguzhan-Kahyaoglu-2025-1.pdf" target="_blank">Download CV (PDF)</a>
+        <a class="btn btn-primary mr-2" href="/cv/oguzhan-kahyaoglu-2025-1.pdf" target="_blank">Download CV (PDF)</a>
         <a class="btn btn-secondary" href="/cv/oguzhan-kahyaoglu-2025.docx" target="_blank">Download CV (Word)</a>
       </div>
 
