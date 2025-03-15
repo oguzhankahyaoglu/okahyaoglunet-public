@@ -1,6 +1,6 @@
 module.exports = {
-  siteName: 'Hi! | Oğuzhan Kahyaoğlu',
-  siteDescription: 'A starter project for Gridsome with Bootstrap for you to quickly build a resume.',
+  siteName: 'Hi! | Oguzhan Kahyaoglu',
+  siteDescription: 'My personal website.',
   siteUrl: 'https://okahyaoglu.net',
   plugins: [{
       use: '@gridsome/plugin-google-analytics',

@@ -2,78 +2,111 @@
   <section class="resume-section p-3 p-lg-5 d-flex justify-content-center" id="experience">
     <div class="w-100">
       <h2 class="mb-5">Experience</h2>
+
+      <!-- Axon -->
+      <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+        <div class="resume-content">
+          <h3 class="mb-0">Software Engineer II</h3>
+          <div class="subheading mb-3">Axon Public Safety</div>
+          <p>
+            At Axon, I develop <b>mission-critical public safety solutions</b> used by law enforcement agencies worldwide.
+            I focus on <b>high-performance .NET architectures</b>, <b>cloud-based scalable solutions</b>,
+            and <b>device log ingestion pipelines</b>.
+          </p>
+          <ul>
+            <li><b>Optimized Taser 10 & Taser 7 device log ingestion:</b> Increased throughput from <b>8 to 400 Virtual Users (VU)</b> in K6 load tests.</li>
+            <li><b>Reduced database query times:</b> Improved API response from <b>2 minutes to 3 seconds</b> by eliminating unnecessary tracking overhead.</li>
+            <li><b>Enhanced large-scale processing:</b> Optimized <b>memory allocation & garbage collection</b>, reducing timeout failures under heavy load.</li>
+            <li><b>Modernized legacy systems:</b> Migrated <b>on-premise applications to scalable .NET Core solutions</b>.</li>
+          </ul>
+          <p><b>Tech Stack:</b> .NET Core, C#, Azure (Functions, Service Bus, Storage, App Services), Entity Framework, xUnit, MassTransit, Mediatr & CQRS, Hangfire, TeamCity, Octopus, React, SQL Server</p>
+        </div>
+        <div class="resume-date text-md-right">
+          <span class="text-primary">June 2023 - Present</span>
+        </div>
+      </div>
+
+      <!-- Amazon -->
       <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
         <div class="resume-content">
           <h3 class="mb-0">Senior Software Developer (SDE 2)</h3>
           <div class="subheading mb-3">Amazon</div>
           <p>
-            As being a SDE2 in Amazon, in the Alexa Shopping Multimodal Experiencs team, we are focusing on developing rich customer experiences. <br>
-            They, as expected, running on AWS services and we are using APL language in the front-end side, Kotlin on the backend side. <br>
-            This position enabled me to do development on Java technology stack.<br>
+            As part of the <b>Alexa Shopping Multimodal Experiences team</b>, I developed <b>rich voice-first shopping experiences</b> using <b>AWS, Java/Kotlin, and Alexa Presentation Language (APL)</b>.
           </p>
-          <p><strong>Tech Stack:</strong> AWS, Java/Kotlin, Alexa Presentation Language (APL), many other internal tools</p>
+          <ul>
+            <li><b>Developed scalable backend services</b> for Alexa Shopping, improving <b>query performance and reducing latency</b>.</li>
+            <li><b>Implemented multimodal UI experiences</b> using <b>APL</b>, enabling seamless voice and screen-based interactions.</li>
+            <li><b>Enhanced cloud infrastructure:</b> Optimized <b>AWS Lambda functions & DynamoDB queries</b> for faster response times.</li>
+          </ul>
+          <p><b>Tech Stack:</b> AWS, Java/Kotlin, Alexa Presentation Language (APL), DynamoDB, Lambda, many other internal tools</p>
         </div>
         <div class="resume-date text-md-right">
-          <span class="text-primary">2022 October - Present</span>
+          <span class="text-primary">October 2022 - May 2023</span>
         </div>
       </div>
 
+      <!-- Enerjisa Üretim -->
       <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
         <div class="resume-content">
           <h3 class="mb-0">Software Architect</h3>
-          <div class="subheading mb-3">Enerjisa Uretim</div>
+          <div class="subheading mb-3">Enerjisa Üretim</div>
           <p>
-            Within Enerjisa Uretim, we develop corporate projects that are being used in our powerplants all over
-            Turkey.<br>
-            We work fully Agile by the way. Unit test and UI tesing is so much important for us in order to ensure high
-            quality of our projects.<br>
-            I can clearly state that we are developing <b>.netcore&amp;Angular 8 stack</b> applications using <b>Aspnetzero/Aspnetboilerplate
-            frameworks</b>.
+            Led <b>enterprise software projects</b> powering <b>power plants across Turkey</b>. Focused on <b>high-performance .NET & Angular applications</b> in a fully Agile environment.
           </p>
-          <p><strong>Tech Stack:</strong> AspnetBoilerplate, AspnetZero, Angular, Typescript</p>
+          <ul>
+            <li><b>Developed scalable enterprise platforms:</b> Built applications using <b>.NET Core & Angular</b>, ensuring <b>high availability & performance</b>.</li>
+            <li><b>Implemented automated testing pipelines:</b> Ensured <b>robust unit & UI testing</b> to maintain software quality.</li>
+            <li><b>Optimized microservices & API architecture:</b> Integrated <b>AspNetZero & AspNetBoilerplate frameworks</b> for modular development.</li>
+          </ul>
+          <p><b>Tech Stack:</b> .NET Core, AspNetBoilerplate, AspNetZero, Angular, TypeScript, SQL Server</p>
         </div>
         <div class="resume-date text-md-right">
-          <span class="text-primary">2019 Jan - 2022 September</span>
+          <span class="text-primary">Jan 2019 - September 2022</span>
         </div>
       </div>
 
+      <!-- Vektora -->
       <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
         <div class="resume-content">
           <h3 class="mb-0">Lead Developer</h3>
-          <div class="subheading mb-3">Vektora Consultancy</div>
+          <div class="subheading mb-3">Vektora</div>
           <p>
-            I have been working as a Lead Consultant (formerly, as Senior Consultant) in Vektora, within the department
-            of Microsoft. We are implementing huge integrations, internal and external web application according to our
-            customer needs. As consultants, we are 7/24 reachable due to the fact that we are responsible of huge
-            external systems like: Vestel.com.tr, Regal-tr.com, Garenta.com.tr and so on.<br>I am also responsible about
-            Framework Development within the company, which is being distributed among most of our projects.
-            <br><strong>Tech Stack:</strong> soa architecture, wcf/asmx, webforms,
-            mvc, .netcore, ef, ninject, svn/git, ms sql, heroku, jquery, and many front-end technologies.
+            As a <b>Lead Engineer</b>, I spearheaded <b>large-scale system integrations and internal frameworks</b>.
           </p>
+          <ul>
+            <li><b>Built & maintained enterprise integrations</b> for <b>Vestel, Regal, Garenta</b>, handling high-traffic workloads.</li>
+            <li><b>Developed internal frameworks</b> used across multiple projects, improving development efficiency.</li>
+            <li><b>Led a team of developers:</b> Conducted <b>code reviews, mentorship, and best practice implementations</b>.</li>
+          </ul>
+          <p><b>Tech Stack:</b> .NET Core, MVC, Entity Framework, SQL Server, Heroku, Git/SVN, JavaScript</p>
         </div>
         <div class="resume-date text-md-right">
           <span class="text-primary">Dec 2016 - Jan 2019</span>
         </div>
       </div>
 
+      <!-- Hostamedia -->
       <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
         <div class="resume-content">
-          <h3 class="mb-0">Senior Full-stack Developer</h3>
+          <h3 class="mb-0">Senior Full-Stack Developer</h3>
           <div class="subheading mb-3">Hostamedia Web Agency</div>
           <p>
-            Hostamedia could be counted as my first professional software experience; I started there as junior
-            developer, worked for almost 4 years (with a 6 month break due to millitary services). <br>The company is so
-            popular within the Hotel Websites sector of the web agencies; they got strong references like The Marmara
-            Hotels, The House Hotels, Avantgarde Group and so on.<br>We were mostly doing back-end integrations to their
-            prebuilt CMS systems. After some time, I started developing plugins for the CMS systems and contrib part of
-            the company Framework. <br><strong>Technologies being used: </strong> Webforms, LLBLGEN (instead of EF),
-            .net 3.5, svn, ms sql, jquery and many other front-end technologies.
+            Started as a <b>Junior Developer</b> and quickly grew into a <b>Senior Full-Stack Developer</b> role.
+            Developed <b>high-performance CMS integrations</b> for <b>leading hotel brands</b>.
           </p>
+          <ul>
+            <li><b>Developed custom CMS plugins</b> for <b>The Marmara Hotels, The House Hotels, and Avantgarde Group</b>.</li>
+            <li><b>Implemented back-end integrations</b> for <b>hotel booking & reservation platforms</b>.</li>
+            <li><b>Optimized legacy systems:</b> Upgraded existing applications, improving performance and security.</li>
+          </ul>
+          <p><b>Tech Stack:</b> .NET 3.5, WebForms, LLBLGen, SQL Server, jQuery, SVN</p>
         </div>
         <div class="resume-date text-md-right">
           <span class="text-primary">Oct 2012 - Nov 2016</span>
         </div>
       </div>
+
     </div>
   </section>
 </template>

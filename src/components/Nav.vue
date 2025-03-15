@@ -1,7 +1,7 @@
 <template>
   <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
     <div v-on:click.prevent="$scrollTo('#about')" class="navbar-brand">
-      <span class="d-block d-lg-none">Oğuzhan Kahyaoğlu</span>
+      <span class="d-block d-lg-none">Oguzhan Kahyaoglu</span>
       <span class="d-none d-lg-block">
         <g-image
           alt="Image of Loke"
@@ -32,10 +32,10 @@
           <a class="nav-link" v-on:click.prevent="$scrollTo('#awards')">Certifications</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="/cv/Oguzhan-Kahyaoglu-2024-1.pdf" target="_blank">Download CV PDF</a>
+          <a class="nav-link" href="/cv/Oguzhan-Kahyaoglu-2025-1.pdf" target="_blank">Download CV PDF</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="/cv/oguzhan-kahyaoglu-2024.docx" target="_blank">Download CV Word</a>
+          <a class="nav-link" href="/cv/oguzhan-kahyaoglu-2025.docx" target="_blank">Download CV Word</a>
         </li>
       </ul>
     </div>

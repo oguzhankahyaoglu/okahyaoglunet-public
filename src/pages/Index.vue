@@ -34,8 +34,8 @@ export default {
     Awards
   },
   metaInfo: {
-    title: "Hi! | Oğuzhan Kahyaoğlu",
-    titleTemplate: "Hi! | Oğuzhan Kahyaoğlu"
+    title: "Hi! | Oguzhan Kahyaoglu",
+    titleTemplate: "Hi! | Oguzhan Kahyaoglu"
   }
 };
 </script>
